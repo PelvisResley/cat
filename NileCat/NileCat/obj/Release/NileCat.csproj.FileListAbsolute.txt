@@ -1,0 +1,17 @@
+C:\Users\bobub\source\repos\NileCat\NileCat\bin\Release\NileCat.exe.config
+C:\Users\bobub\source\repos\NileCat\NileCat\bin\Release\NileCat.exe
+C:\Users\bobub\source\repos\NileCat\NileCat\bin\Release\NileCat.pdb
+C:\Users\bobub\source\repos\NileCat\NileCat\obj\Release\NileCat.csprojAssemblyReference.cache
+C:\Users\bobub\source\repos\NileCat\NileCat\obj\Release\MainWindow.g.cs
+C:\Users\bobub\source\repos\NileCat\NileCat\obj\Release\SettingsWindow.g.cs
+C:\Users\bobub\source\repos\NileCat\NileCat\obj\Release\App.g.cs
+C:\Users\bobub\source\repos\NileCat\NileCat\obj\Release\NileCat_MarkupCompile.cache
+C:\Users\bobub\source\repos\NileCat\NileCat\obj\Release\NileCat_MarkupCompile.lref
+C:\Users\bobub\source\repos\NileCat\NileCat\obj\Release\MainWindow.baml
+C:\Users\bobub\source\repos\NileCat\NileCat\obj\Release\SettingsWindow.baml
+C:\Users\bobub\source\repos\NileCat\NileCat\obj\Release\NileCat.g.resources
+C:\Users\bobub\source\repos\NileCat\NileCat\obj\Release\NileCat.Properties.Resources.resources
+C:\Users\bobub\source\repos\NileCat\NileCat\obj\Release\NileCat.csproj.GenerateResource.cache
+C:\Users\bobub\source\repos\NileCat\NileCat\obj\Release\NileCat.csproj.CoreCompileInputs.cache
+C:\Users\bobub\source\repos\NileCat\NileCat\obj\Release\NileCat.exe
+C:\Users\bobub\source\repos\NileCat\NileCat\obj\Release\NileCat.pdb

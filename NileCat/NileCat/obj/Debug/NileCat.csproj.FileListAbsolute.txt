@@ -1,0 +1,17 @@
+C:\Users\bobub\source\repos\NileCat\NileCat\bin\Debug\NileCat.exe.config
+C:\Users\bobub\source\repos\NileCat\NileCat\bin\Debug\NileCat.exe
+C:\Users\bobub\source\repos\NileCat\NileCat\bin\Debug\NileCat.pdb
+C:\Users\bobub\source\repos\NileCat\NileCat\obj\Debug\NileCat.csprojAssemblyReference.cache
+C:\Users\bobub\source\repos\NileCat\NileCat\obj\Debug\MainWindow.g.cs
+C:\Users\bobub\source\repos\NileCat\NileCat\obj\Debug\SettingsWindow.g.cs
+C:\Users\bobub\source\repos\NileCat\NileCat\obj\Debug\App.g.cs
+C:\Users\bobub\source\repos\NileCat\NileCat\obj\Debug\NileCat_MarkupCompile.cache
+C:\Users\bobub\source\repos\NileCat\NileCat\obj\Debug\NileCat_MarkupCompile.lref
+C:\Users\bobub\source\repos\NileCat\NileCat\obj\Debug\MainWindow.baml
+C:\Users\bobub\source\repos\NileCat\NileCat\obj\Debug\SettingsWindow.baml
+C:\Users\bobub\source\repos\NileCat\NileCat\obj\Debug\NileCat.g.resources
+C:\Users\bobub\source\repos\NileCat\NileCat\obj\Debug\NileCat.Properties.Resources.resources
+C:\Users\bobub\source\repos\NileCat\NileCat\obj\Debug\NileCat.csproj.GenerateResource.cache
+C:\Users\bobub\source\repos\NileCat\NileCat\obj\Debug\NileCat.csproj.CoreCompileInputs.cache
+C:\Users\bobub\source\repos\NileCat\NileCat\obj\Debug\NileCat.exe
+C:\Users\bobub\source\repos\NileCat\NileCat\obj\Debug\NileCat.pdb
